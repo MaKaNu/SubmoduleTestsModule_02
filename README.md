@@ -1,0 +1,2 @@
+# SubmoduleTestsModule_02
+THIS IS SUBMODULE TEST REPOSITORY. 
